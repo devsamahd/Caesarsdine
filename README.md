@@ -1,7 +1,7 @@
 # 🍎Caesarsdine
 A tip calculator made with Javascript.
-\n
-***Functionalities*** <br/>
+<br/><br/>
+***Functionalities*** 
 <br/> -Calculates total Bill
 <br/> -Divides bill between number of persons
 <br/> -calculate percentage of tip
